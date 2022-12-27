@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Software Developer
 --------------------------------
 
-I am a Full-Stack self-taught software developer with a strong foundation in multiple programming languages and experience with various technologies. A collaborative team player with a unique business background, and a drive to continuously learn and improve. 
+I am a Full-Stack self-taught software developer with a strong foundation in multiple programming languages and experience with various technologies. A collaborative contributor with a unique business background, and seeking opportunities to make a positive impact and continuously learning as a developer. 
 
-Check out my work on GitHub!
+Check out my works on GitHub!
 
 * 🌍  I'm based in Austin, Texas
 * 🖥️  See my portfolio at [Tech Daniel](http://techdaniel.com)
