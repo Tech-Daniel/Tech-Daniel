@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Software Developer
 --------------------------------
 
-I am a Full-Stack self-taught software developer with a strong foundation in multiple programming languages and experience with various technologies. Collaborative team player with a unique business background and a drive to continuously learn and improve. 
+I am a Full-Stack self-taught software developer with a strong foundation in multiple programming languages and experience with various technologies. A collaborative team player with a unique business background, and a drive to continuously learn and improve. 
 
 Check out my work on GitHub!
 
