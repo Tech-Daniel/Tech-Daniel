@@ -14,14 +14,14 @@ Check out my work on GitHub!
 * 🚀  I'm currently working on [Clone ChatGPT App](http://techdaniel.com/chatgpt)
 * 🧠  I'm learning Frameworks Django and Spring Boot
 
-### My GitHub Stats
+## My GitHub Stats
 
 <p align="left">
   <a align="left" href="http://www.github.com/Tech-Daniel"><img src="https://github-readme-stats.vercel.app/api?username=Tech-Daniel&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="Tech-Daniel's GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tech-Daniel&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
 
-### Skills
+## Skills
 
 #### Languages:
 <p align="left">
@@ -57,6 +57,7 @@ Check out my work on GitHub!
 </p>
 
 
-### Socials
+## Socials
 
-<p align="left"> <a href="https://www.github.com/Tech-Daniel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/danielddoan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/tech__daniel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Tech-Daniel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" /></a> <a href="https://www.linkedin.com/in/danielddoan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a> 
+</p>
