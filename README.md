@@ -11,13 +11,13 @@ Check out my works on GitHub!
 * 🌍  I'm based in Austin, Texas
 * 🖥️  See my portfolio at [Tech Daniel](http://techdaniel.com)
 * ✉️  You can contact me at [daniel.@techdaniel.com](mailto:daniel.@techdaniel.com)
-* 🚀  I'm currently working on [Clone ChatGPT App](http://techdaniel.com/chatgpt)
+* 🚀  I'm currently working on [Netflix Clone App](http://techdaniel.com/filmpire)
 * 🧠  I'm learning Frameworks Django and Spring Boot
 
 ## My GitHub Stats
 
 <p align="left">
-  <a align="left" href="http://www.github.com/Tech-Daniel"><img src="https://github-readme-stats.vercel.app/api?username=Tech-Daniel&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="Tech-Daniel's GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tech-Daniel&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a align="left" href="http://www.github.com/Tech-Daniel"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tech-Daniel&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
 
