@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Doan
 ===================================================================================================================================
 
-Full-Stack Software Developer
+Software Developer
 --------------------------------
 
 I am a Full-Stack software developer with a strong foundation in multiple programming languages and experience with various technologies. A collaborative contributor with a unique business background, and seeking opportunities to make a positive impact and continuously learning as a developer. 
